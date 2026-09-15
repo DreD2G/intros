@@ -4,4 +4,4 @@
 
 **Fun fact:**
 
-**Something I want to build this semester:**
+**Something I want to build next semester:**
