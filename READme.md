@@ -1,6 +1,6 @@
 # Git & GitHub Practice Repo
 
-Welcome! This repo is just markdown files — no code, no setup beyond Git and VS Code. The goal is to practice the actual workflow you'll use for your Blue project all semester.
+Welcome! This repo is just markdown files — no setup beyond Git and VS Code. The goal is to practice the actual workflow you'll use for your Blue project next semester.
 
 ## Today's exercise
 
@@ -12,7 +12,6 @@ Welcome! This repo is just markdown files — no code, no setup beyond Git and V
 6. **Open a Pull Request**
 7. **Swap with a partner** — review each other's PR and leave at least one comment
 
-No formal deliverable — we're practicing the workflow together, live.
 
 ## Your intro file
 
@@ -28,7 +27,7 @@ Create `Submissions/your-name.md` using this format:
 **Something I want to build this semester:**
 ```
 
-Everyone gets their own file, so there's no risk of stepping on anyone else's work.
+Everyone gets their own file.
 
 ## Command cheat sheet
 
