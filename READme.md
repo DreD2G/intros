@@ -35,7 +35,7 @@ Everyone gets their own file.
 git checkout -b add-your-name         # create + switch to your branch
 git add Submissions/your-name.md      # stage your new file
 git commit -m "Add my intro"          # save a snapshot
-git push                              # upload your branch to GitHub
+git push -u origin add-your-name      # upload your branch to GitHub                             # upload your branch to GitHub
 ```
 
 Then head to GitHub to open your Pull Request.
